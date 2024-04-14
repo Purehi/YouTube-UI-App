@@ -3,7 +3,10 @@
 
 ## Watch any YouTube videos with no ads.
 
-<span style="color: #FF69B4;">Why did the tomato turn red?</span>
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 $${\color{Note: The ios app not ​​download is no longer available due to Apple store policy. but you can download it on google play store. All data provide by YouTube API v3.}Red}$$
 
