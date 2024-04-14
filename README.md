@@ -3,9 +3,7 @@
 
 ## Watch any YouTube videos with no ads.
 
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
+<span style="color: #FF69B4;">Why did the tomato turn red?</span>
 
 $${\color{Note: The ios app not ​​download is no longer available due to Apple store policy. but you can download it on google play store. All data provide by YouTube API v3.}Red}$$
 
