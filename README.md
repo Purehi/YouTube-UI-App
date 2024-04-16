@@ -1,7 +1,7 @@
 
 # Mordo:Lite YouTube Music Video Player
 
-## Watch any YouTube videos with no ads.
+## Watch any YouTube videos without ads.
 
 ```diff
 - Note: The ios app not ​​download is no longer available due to Apple store policy,
