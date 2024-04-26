@@ -10,10 +10,8 @@
 
 [![](https://github.com/Purehi/Mordo/assets/138559218/44f142db-d302-4573-9045-79c0fe95ee84)](https://play.google.com/store/apps/details?id=free.mor.mordo.do)
 
-<img src="https://github.com/Purehi/Mordo/assets/138559218/dff32b38-83c5-4d15-9451-3a21f4b899c6" width="160" />
-<img src="https://github.com/Purehi/Mordo/assets/138559218/89d927b0-7e92-4711-8caa-5296501366c5" width="160" />
-<img src="https://github.com/Purehi/Mordo/assets/138559218/d8317e8d-7230-4819-93b9-0b73ed2bbdea" width="160" />
-<img src="https://github.com/Purehi/Mordo/assets/138559218/2f2081c1-eed8-4d7d-a98f-7aa319bda0b7" width="160" />
+![Banner](https://github.com/Purehi/Mordo-YouTube-UI-App/assets/138559218/19c1c453-6399-47eb-acf7-d18696af38c0)
+
 
 Welcome to our App, here is your best companion for exploring the video world! We promise to provide you with the purest video experience without any advertising interruption. You can safely immerse yourself in the video content and enjoy every moment.
 
