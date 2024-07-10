@@ -1,5 +1,5 @@
 
-# Mordo:Lite YouTube Music Video Player
+# WeTube: Video&Song Player
 
 ## Watch any YouTube videos without ads.
 
