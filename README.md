@@ -1,7 +1,6 @@
 
-# WeTube: Video&Song Player
+# WeTube: Video. Music & Short Drama
 
-## Watch YouTube videos without ads.
 
 ```diff
 - Note: The ios app not ​​download is no longer available due to Apple store policy,
