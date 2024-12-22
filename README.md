@@ -1,6 +1,5 @@
 
-# WeTube: Video. Music & Short Drama
-
+# WeTube: Video, Music & Short Drama
 
 ```diff
 - Note: The ios app not ​​download is no longer available due to Apple store policy,
@@ -9,7 +8,7 @@
 
 [![](https://github.com/Purehi/Mordo/assets/138559218/44f142db-d302-4573-9045-79c0fe95ee84)](https://play.google.com/store/apps/details?id=free.mor.mordo.do)
 
-![Banner](https://github.com/user-attachments/assets/9e08d9d0-e701-46f1-b51d-c130cd55e29c)
+![Banner](https://github.com/user-attachments/assets/f4aca886-f499-4d53-b0f4-aa3ee9aac89a)
 
 
 Tired of video and music playback being interrupted suddenly, or short drama stopping when opening new pages? Welcome to a new era of immersive music and videos! Download WeTube now!
@@ -35,12 +34,19 @@ Playables game
 - Playables are a fun, interactive way to experience WeTube — with lightweight, entertaining games like Angry Birds Showdown, Words of Wonders, Cut the Rope, Tomb of the Mask, and Trivia Crack and so many more that you can play right now.
 
 Features:
+
 💎 No pre-video, end-video and interstitial ads
+
 💥 Videos, music and short dramas are all in HD
+
 🚀No need to install other plug-ins, such as micro, Manager
+
 ⭐ Search for the latest anime, live broadcasts and sports videos
+
 🎵 Collection of many popular podcasts, music playlists and short videos
+
 🏷️ Protect privacy, no play history and recommended videos
+
 #️⃣ No root/subscription required
 
 📛Note
